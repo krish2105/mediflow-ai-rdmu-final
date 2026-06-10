@@ -1,0 +1,5 @@
+resource_name,available_count,emergency_buffer,unit_cost,max_capacity
+Beds,30,5,500,35
+Doctors,10,2,1200,12
+Nurses,20,3,400,25
+Equipment,15,2,800,18
