@@ -13,7 +13,7 @@ from pathlib import Path
 Path("slides").mkdir(exist_ok=True)
 
 COLAB_LINK = "[PASTE_ACCESSIBLE_COLAB_LINK_HERE]"
-GITHUB_LINK = "[PASTE_GITHUB_REPO_LINK_HERE]"
+GITHUB_LINK = "https://github.com/krish2105/mediflow-ai-rdmu-final"
 STREAMLIT_LINK = "[PASTE_STREAMLIT_APP_LINK_HERE]"
 
 FOOTER_TEXT = "Made by Krishna Mathur  |  AS25DXB018  |  MAIB September  |  MAIB DSC 103"

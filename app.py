@@ -46,7 +46,7 @@ from src.dashboard_helpers import (
 
 # ── Link placeholders (replace after deployment) ───────────────────────────────
 COLAB_LINK = "[PASTE_ACCESSIBLE_COLAB_LINK_HERE]"
-GITHUB_LINK = "[PASTE_GITHUB_REPO_LINK_HERE]"
+GITHUB_LINK = "https://github.com/krish2105/mediflow-ai-rdmu-final"
 STREAMLIT_LINK = "[PASTE_STREAMLIT_APP_LINK_HERE]"
 
 # ── Session state initialisation ──────────────────────────────────────────────

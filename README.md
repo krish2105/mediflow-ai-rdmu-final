@@ -12,7 +12,7 @@
 | Resource | Link |
 |---|---|
 | Google Colab Notebook | `[PASTE_ACCESSIBLE_COLAB_LINK_HERE]` |
-| GitHub Repository | `[PASTE_GITHUB_REPO_LINK_HERE]` |
+| GitHub Repository | https://github.com/krish2105/mediflow-ai-rdmu-final |
 | Streamlit App | `[PASTE_STREAMLIT_APP_LINK_HERE]` |
 
 ---
@@ -131,7 +131,7 @@ All data is synthetically generated using NumPy (seed=42). No real patient data 
 
 ```bash
 # 1. Clone or download the repository
-git clone [PASTE_GITHUB_REPO_LINK_HERE]
+git clone https://github.com/krish2105/mediflow-ai-rdmu-final.git
 cd MediFlowAI
 
 # 2. Create virtual environment
@@ -196,7 +196,7 @@ git commit -m "Initial commit - MediFlow AI RDMU prototype"
 git branch -M main
 
 # Add remote (replace with your GitHub username and repo name)
-git remote add origin https://github.com/YOUR_USERNAME/MediFlowAI.git
+git remote add origin https://github.com/krish2105/mediflow-ai-rdmu-final.git
 
 # Push to GitHub
 git push -u origin main
