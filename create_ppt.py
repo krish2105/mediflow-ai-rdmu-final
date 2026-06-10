@@ -12,9 +12,9 @@ from pathlib import Path
 
 Path("slides").mkdir(exist_ok=True)
 
-COLAB_LINK = "[PASTE_ACCESSIBLE_COLAB_LINK_HERE]"
+COLAB_LINK = "https://colab.research.google.com/drive/1LjqDNOLf4z481r_s1NxHATEMKN2ynbZO#scrollTo=2b3c8630"
 GITHUB_LINK = "https://github.com/krish2105/mediflow-ai-rdmu-final"
-STREAMLIT_LINK = "[PASTE_STREAMLIT_APP_LINK_HERE]"
+STREAMLIT_LINK = "https://mediflow-ai-rdmu-final-vyj96f9xwbtezqmelhjq6c.streamlit.app/"
 
 FOOTER_TEXT = "Made by Krishna Mathur  |  AS25DXB018  |  MAIB September  |  MAIB DSC 103"
 LINK_FOOTER = f"Colab: {COLAB_LINK}   GitHub: {GITHUB_LINK}   App: {STREAMLIT_LINK}"

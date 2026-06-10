@@ -11,9 +11,9 @@
 
 | Resource | Link |
 |---|---|
-| Google Colab Notebook | `[PASTE_ACCESSIBLE_COLAB_LINK_HERE]` |
+| Google Colab Notebook | https://colab.research.google.com/drive/1LjqDNOLf4z481r_s1NxHATEMKN2ynbZO#scrollTo=2b3c8630 |
 | GitHub Repository | https://github.com/krish2105/mediflow-ai-rdmu-final |
-| Streamlit App | `[PASTE_STREAMLIT_APP_LINK_HERE]` |
+| Streamlit App | https://mediflow-ai-rdmu-final-vyj96f9xwbtezqmelhjq6c.streamlit.app/ |
 
 ---
 
